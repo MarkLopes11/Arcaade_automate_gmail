@@ -1,0 +1,5 @@
+streamlit
+arcadepy
+python-dotenv
+google-generativeai
+requests
